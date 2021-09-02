@@ -1,0 +1,2 @@
+# Other_type_deeplearn
+Other deeplearning_Paractice
